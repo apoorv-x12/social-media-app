@@ -28,9 +28,3 @@ This repository contains the backend of a social media application, designed wit
 - [Docker](https://www.docker.com/get-started)
 - PostgreSQL (install locally or use a Docker container)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/apoorv-x12/social-media-app-backend.git
-   cd social-media-app-backend
